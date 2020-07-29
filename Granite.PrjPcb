@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NMMPCZNI
 
 [Document2]
-DocumentPath=granite.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ROELGGUS
-
-[Document3]
 DocumentPath=Granite.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -92,17 +75,21 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for Granite\Design Rule Check - granite.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Granite\Design Rule Check - granite_v2.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=prj_ProjectRevision
-Value=0.1
+Name=prj_ProjectDCN
+Value=500-0004
 
 [Parameter2]
 Name=prj_ProjectName
 Value=Granite
 
 [Parameter3]
-Name=prj_ProjectDCN
-Value=500-0004
+Name=prj_ProjectRevision
+Value=0.1
 
 [Configuration1]
 Name=Sources
